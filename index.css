@@ -52,6 +52,17 @@ body {
 .logo > h1 {
     font-family: "Oleo Script", cursive;
 }
+.more-btn{
+    max-width: 300px;
+}
+#more-btn{
+    margin-right: 0;
+    margin-bottom: 70px;
+}
+#arrow{
+    margin left:0;
+    text-align: center;
+}
 .btn {
     padding: 15px;
     border-radius: 7px;
@@ -423,16 +434,21 @@ background-color:#0f298b:}
     width: 230px;
     display: inline-block;
     padding: 50px 45px 50px 10px;
+    margin-right: 80px;
   }
   .property{
     width: 230px;
     display: inline-block;
     padding: 50px 15px;
+    margin-right: 80px;
+
   }
   .about{
     width: 230px;
     display: inline-block;
     padding: 50px 15px;
+    margin-right: 80px;
+
   }
   .resources{
     width: 230px;
