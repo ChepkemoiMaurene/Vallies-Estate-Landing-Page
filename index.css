@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
 }
@@ -73,10 +73,11 @@ hr {
 }
 #getstarted-btn {
     cursor: pointer;
+    
 }
 
 /* Styling Welcome section */
-/* .body-section {
+.body-section {
     padding-top: 100px;
     width: 80%;
     margin: auto;
@@ -124,10 +125,10 @@ hr {
 #play-btn {
     border-radius: 50px;
     padding: none !important;
-} */ */
+}
 
 /* stling the Search section */
-/* .search-section {
+.search-section {
     width: 90%;
     margin: 100px auto 0;
     background-color: #fff;
@@ -171,10 +172,10 @@ span {
 #search-btn.material-symbols-rounded {
     font-size: 23px;
     cursor: pointer;
-} */
+}
 
 /* styling Product Section */
-/* .product-section {
+.product-section {
     margin: 90px auto 0;
 }
 .product-title {
@@ -233,10 +234,10 @@ span {
     font-size: 25px;
     margin-top: 10px;
     margin-bottom: 50px;
-} */
+}
 
 /* Recomendation section styling */
-/* .recomendation-section {
+.recomendation-section {
     display: flex;
     justify-content: space-between !important;
     margin-top: 150px;
@@ -247,8 +248,8 @@ span {
 }
 
 .recomendation-img {
-    height: 350px;
-    width: 450px;
+    height: 400px;
+    width: 700px;
 }
 .recomendation-img > img {
     width: inherit;
@@ -261,9 +262,9 @@ span {
     font-weight: 400;
     color: grey;
 }
-.recomendation-title { */
+.recomendation-title {
     /* padding: 30px; */
-    /* width: 500px;
+    width: 500px;
 }
 .checked-offers {
     margin-top: 15px;
@@ -282,13 +283,13 @@ span {
     padding-left: 5px;
 }
 .checked-content .material-symbols-rounded {
-    font-size: 19px; */
+    font-size: 19px;
     /* font-weight: 600; */
-    /* font-variation-settings: "FILL" 900, "wght" 700, "GRAD" 0, "opsz" 48;
+    font-variation-settings: "FILL" 900, "wght" 700, "GRAD" 0, "opsz" 48;
 }
 
 /* featured section */
-/* .featured-section {
+.featured-section {
     margin: 100px auto 100px;
     text-align: center;
 }
@@ -307,9 +308,9 @@ span {
 .featured-cards-huses {
     height: 250px;
 }
-.featured-cards-huses { */ */
+.featured-cards-huses {
     /* height: 100px; */
-    /* width: 30%;
+    width: 30%;
     max-width: 30%;
     background-color: #fff;
     border-top-right-radius: 71px;
@@ -351,11 +352,19 @@ span {
     display: flex;
     justify-content: space-between;
 }
+.btn{
+    margin-top: 80px;
+    margin-bottom: 0;
+}
+.font-color{
+    color: #0F298B;
+}
 #view-more-btn {
     border-radius: 10px;
     font-size: small;
     font-weight: 400;
     padding: 5 25px 0;
+    margin top: 30px;
 }
 
 .cards{
@@ -372,15 +381,16 @@ span {
     font-weight: 400;
     margin-bottom: 5px;
 }
-.cards:hover {
+cards:hover {
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
         rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     cursor: pointer;
-}
+} 
 .cards{
     font-weight: 500;
     font-size: large;
     margin-bottom: 10px;
+    margin-top: 30px;
 }
 
 .review-message {
@@ -397,22 +407,39 @@ span {
     padding-right:100px ;
 color:#fff;
 background-color:#0f298b:}
-.footer ul{ list-style-type: none;
-}
-.estate{ width:230px;
-display:inline-block;
-padding:50px 45px 50px 10px;}
-.property{ width: 230px;
-display:inline-block;
-padding:50px 15px;}
-.about{
+
+
+/* Footer Section */
+.footer{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
+    background-color: #0F298B;
+  }
+  .footer ul{
+    list-style-type: none;
+  }
+  .estate{
     width: 230px;
     display: inline-block;
-    padding: 50px 150px;
-}
-.resources{ width 230px;
-display:inline-block; */
-/* padding:50px 15px;}
-
-.estate h3{
-    font-family: 'oleo script',cursive;} */
+    padding: 50px 45px 50px 10px;
+  }
+  .property{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+  }
+  .about{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+  }
+  .resources{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+  }
+  .estate h3{
+    font-family: 'Oleo Script', cursive;
+  
+  }
