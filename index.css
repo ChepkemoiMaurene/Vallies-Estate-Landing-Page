@@ -322,7 +322,7 @@ span {
 .featured-cards-huses {
     /* height: 100px; */
     width: 30%;
-    max-width: 30%;
+    max-width: 30vh;
     background-color: #fff;
     border-top-right-radius: 71px;
     border-bottom-left-radius: 71px;
