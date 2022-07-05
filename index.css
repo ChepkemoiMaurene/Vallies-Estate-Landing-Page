@@ -358,7 +358,7 @@ span {
     font-weight: 500;
 }
 .btn-position-more {
-    width: 100%;
+    width: 100vh;
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
