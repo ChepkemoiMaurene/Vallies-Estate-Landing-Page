@@ -1,4 +1,5 @@
 # Vallies-Estate-Landing-Page
+This website is about helping our clients get beautiful and affordable house at a pocket friendly cost.
 # Portfolio
 By chepkemoi maurene
 It is a description of my resume.
