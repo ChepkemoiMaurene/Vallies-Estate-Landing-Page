@@ -1,5 +1,5 @@
 # Vallies-Estate-Landing-Page
-This website is about helping our clients get beautiful and affordable house at a pocket friendly cost.
+This website is about helping our clients get beautiful and affordable housing at a pocket friendly cost.
 # Portfolio
 By chepkemoi maurene
 It is a description of my resume.
@@ -10,8 +10,8 @@ It is a description of my resume.
 - Reference
 - Licence
 Authors Info
-#Description
-This is a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.
+# Description
+This is a website that shows my portfolio of vallies landing page,It contains all my background information,some sample projects that I have worked on and  detailed information about them.
 
 # Installation 
 go back to the top
@@ -32,6 +32,7 @@ CSS - which was used to style the pages incuding the left aside navigation bar
 Materialize CSS
 Go Back to the top
 #  License
+
 Copyright (c) [2019] [chepkemoi maurene]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
