@@ -4,12 +4,12 @@ This website is about helping our clients get beautiful and affordable housing a
 By chepkemoi maurene
 It is a description of my resume.
 # Table of Content
-- Description
- - Installation Requirement
-- Technology Used
-- Reference
-- Licence
-Authors Info
+- [Description](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#description)
+- [Installation Requirement](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#installation-process)
+- [Technology Used](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#technology-used)
+- [Reference](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#reference)
+- [Licence](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#license)
+- [Authors Info](https://github.com/ChepkemoiMaurene/Vallies-Estate-Landing-Page/edit/main/README.md#authors-info)
 # Description
 This is a website that shows my portfolio of vallies landing page,It contains all my background information,some sample projects that I have worked on and  detailed information about them.
 
