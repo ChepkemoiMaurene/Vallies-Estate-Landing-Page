@@ -222,7 +222,7 @@ span {
 }
 .img-card-option {
     height: 100px;
-    width: 100%;
+    width: 100vh;
     justify-content: center;
 }
 .img-card-option > img {
