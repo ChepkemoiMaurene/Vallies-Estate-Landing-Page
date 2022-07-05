@@ -314,7 +314,7 @@ span {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
+    width: 100vh;
 }
 .featured-cards-huses {
     height: 250px;
