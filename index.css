@@ -5,7 +5,7 @@
 body {
     background-color: #fff;
     margin: auto;
-    width: 100vh;
+    width: 100%;
     overflow: scroll;
     overflow-x: hidden;
 
@@ -89,7 +89,7 @@ hr {
 
 /* Styling Welcome section */
 .body-section {
-    padding: 100px 0 0 0;
+    padding-top: 100px;
     width: 80%;
     margin: auto;
 }
@@ -159,7 +159,7 @@ hr {
     color: grey;
     font-size: 18px;
     font-weight: 400;
-    margin-top: 6px;
+    margin-top: 5px;
 }
 #search-btn {
     display: flex;
@@ -222,7 +222,7 @@ span {
 }
 .img-card-option {
     height: 100px;
-    width: 100vh;
+    width: 100%;
     justify-content: center;
 }
 .img-card-option > img {
@@ -314,7 +314,7 @@ span {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100vh;
+    width: 100%;
 }
 .featured-cards-huses {
     height: 250px;
@@ -322,7 +322,7 @@ span {
 .featured-cards-huses {
     /* height: 100px; */
     width: 30%;
-    max-width: 30vh;
+    max-width: 30%;
     background-color: #fff;
     border-top-right-radius: 71px;
     border-bottom-left-radius: 71px;
@@ -358,7 +358,7 @@ span {
     font-weight: 500;
 }
 .btn-position-more {
-    width: 100vh;
+    width: 100%;
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
@@ -433,21 +433,7 @@ background-color:#0f298b:}
   .estate{
     width: 230px;
     display: inline-block;
-    padding: 50px 45px 50px 10px;
-    margin-right: 80px;
-  }
-  .property{
-    width: 230px;
-    display: inline-block;
-    padding: 50px 15px;
-    margin-right: 80px;
-
-  }
-  .about{
-    width: 230px;
-    display: inline-block;
-    padding: 50px 15px;
-    margin-right: 80px;
+    padding: 50px 45px 50px 10px;    margin-right: 80px;
 
   }
   .resources{
