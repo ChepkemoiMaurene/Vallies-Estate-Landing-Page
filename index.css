@@ -433,7 +433,21 @@ background-color:#0f298b:}
   .estate{
     width: 230px;
     display: inline-block;
-    padding: 50px 45px 50px 10px;    margin-right: 80px;
+    padding: 50px 45px 50px 10px;
+    margin-right: 80px;
+  }
+  .property{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+    margin-right: 80px;
+
+  }
+  .about{
+    width: 230px;
+    display: inline-block;
+    padding: 50px 15px;
+    margin-right: 80px;
 
   }
   .resources{
